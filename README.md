@@ -18,7 +18,7 @@ Esse sou eu, Matheus Henrique.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquedasilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline">
+<div style="display: flex">
     <a href="https://www.linkedin.com/in/matheus-henrique-54a673197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://www.instagram.com/themateusreal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
