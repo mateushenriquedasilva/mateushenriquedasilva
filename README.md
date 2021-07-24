@@ -1,5 +1,5 @@
 <h1 align="center">
-    Olá!👋️
+    Olá! <img src="img/Olá.gif" style="width: 30px">
 </h1>
 
 ## Meu nome é Matheus Henrique, e sou estudante de Desenvolvimento Front-end.
