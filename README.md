@@ -11,12 +11,6 @@ e pretendo me especializar em Front-end.
 
 Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos. 
 Esse sou eu, Matheus Henrique. 
-
-<div>
-  <a href="https://github.com/mateushenriquedasilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushenriquedasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquedasilva&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
     
 <div>
   <a href="https://github.com/mateushenriquedasilva">
