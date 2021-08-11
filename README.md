@@ -17,8 +17,6 @@ Esse sou eu, Matheus Henrique.
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateushenriquedasilva&label=Profile%20views&color=0e75b6&style=flat" alt="Matheus H" /> </p>
-
 <div>
   <a href="https://github.com/mateushenriquedasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateushenriquedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
