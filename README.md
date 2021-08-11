@@ -22,12 +22,10 @@ Esse sou eu, Matheus Henrique.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateushenriquedasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquedasilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+    
+<div style="display:inline_block">
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/fa0fc733ee415d12b2de2f0e8c979b1e.gif" width="200" height="200" border="0" alt="Matheus-Animation"/></a>
     
-##
-    
-<div> 
   <a href="https://www.linkedin.com/in/matheus-henrique-54a673197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/mateushenriquedasilva/mateushenriquedasilva/blob/output/github-contribution-grid-snake.svg)
