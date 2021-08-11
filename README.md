@@ -13,7 +13,7 @@ Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos.
 Esse sou eu, Matheus Henrique. 
 
 <div>
-    <img align="center" alt="JavaScript" height="30" width="110" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="Html" height="30" width="110" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <br>
