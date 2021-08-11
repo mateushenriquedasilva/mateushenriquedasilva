@@ -23,7 +23,7 @@ Esse sou eu, Matheus Henrique.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquedasilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/fa0fc733ee415d12b2de2f0e8c979b1e.gif" width="300" height="300" border="0" alt="Matheus-Animation"/></a>
+<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/fa0fc733ee415d12b2de2f0e8c979b1e.gif" width="100" height="100" border="0" alt="Matheus-Animation"/></a>
     
 ##
     
