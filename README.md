@@ -11,6 +11,12 @@ e pretendo me especializar em Front-end.
 
 Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos. 
 Esse sou eu, Matheus Henrique. 
+
+<div>
+    <img align="center" alt="JavaScript" height="30" width="110" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateushenriquedasilva&label=Profile%20views&color=0e75b6&style=flat" alt="Matheus H" /> </p>
 <div>
   <a href="https://github.com/mateushenriquedasilva">
@@ -19,7 +25,7 @@ Esse sou eu, Matheus Henrique.
 </div>
     
 ##
-
+    
 <div> 
   <a href="https://www.linkedin.com/in/matheus-henrique-54a673197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
