@@ -6,7 +6,7 @@
 
 Tenho 19 anos, nasci em Recife - Pernambuco. Tive meu primeiro contato 
 com programação os 15 anos, quando comecei a estudar Python. Me 
-apaixonei no mesmo momento! Atualmente, estudo Desenvolvente Web 
+apaixonei no mesmo momento! Atualmente, estudo Desenvolvento Web 
 e pretendo me especializar em Front-end. 
 
 Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos. 
