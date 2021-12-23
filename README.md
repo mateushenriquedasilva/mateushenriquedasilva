@@ -12,7 +12,7 @@ e pretendo me especializar em Front-end.
 Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos. 
 Esse sou eu, Matheus Henrique. 
 
-### Linguagens
+### Linguagens👨‍💻
 
 <div>
     <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,7 +22,7 @@ Esse sou eu, Matheus Henrique.
     <img align="center" alt="Css" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### Frameworks e Bibliotecas
+### Frameworks e Bibliotecas📚 
 
 <div>
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -32,7 +32,7 @@ Esse sou eu, Matheus Henrique.
     <img align="center" alt="SCSS" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-### Ferramentas
+### Ferramentas⚙️
 
 <div>
     <img align="center" alt="Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white">
