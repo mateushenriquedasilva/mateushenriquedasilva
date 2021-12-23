@@ -21,7 +21,7 @@ Esse sou eu, Matheus Henrique.
     <img align="center" alt="TypeScript" height="30" width="100" src="https://img.shields.io/badge/typescript-2F6FBA?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-### Framework e Biblioteca
+### Frameworks e Bibliotecas
 
 <div>
     <img align="center" alt="Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white">
