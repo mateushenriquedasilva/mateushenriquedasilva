@@ -17,7 +17,7 @@ Esse sou eu, Matheus Henrique.
 <div>
     <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="TypeScript" height="30" width="100" src="https://img.shields.io/badge/typescript-2F6FBA?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-575757?style=for-the-badge&logo=Python&logoColor=3771A1">
+    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=Python&logoColor=white">
     <img align="center" alt="Html" height="30" width="110" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Css" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
