@@ -34,6 +34,7 @@ Esse sou eu, Matheus Henrique.
 
 <div>
     <img align="center" alt="Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white">
+    <img align="center" alt="Git" height="30" width="100" src="https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=E94E31">
 </div>
 <br>
 <div>
