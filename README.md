@@ -12,6 +12,8 @@ e pretendo me especializar em Front-end.
 Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos. 
 Esse sou eu, Matheus Henrique. 
 
+---
+
 ### Linguagens 👨‍💻
 
 <div>
