@@ -22,7 +22,6 @@ Esse sou eu, Matheus Henrique.
     <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=Python&logoColor=white">
     <img align="center" alt="Html" height="30" width="110" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Css" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="SQL" height="30" width="100" src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white">
 </div>
 
 ### Frameworks e Bibliotecas 📚 
