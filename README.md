@@ -31,6 +31,7 @@ Esse sou eu, Matheus Henrique.
     <img align="center" alt="Redux" height="30" width="100" src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7854BC">
     <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white">
     <img align="center" alt="Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="MUI" height="30" width="100" src="https://img.shields.io/badge/MUI-563D7C?style=for-the-badge&logo=mui&logoColor=white">
     <img align="center" alt="styled-components" height="30" width="100" src="https://img.shields.io/badge/StyledComponents-D66C8E?style=for-the-badge&logo=styled-components&logoColor=white">
     <img align="center" alt="SCSS" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
