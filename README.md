@@ -19,7 +19,7 @@ Esse sou eu, Matheus Henrique.
 <div>
     <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="TypeScript" height="30" width="100" src="https://img.shields.io/badge/typescript-2F6FBA?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=Python&logoColor=white">
+<!--     <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=Python&logoColor=white"> -->
     <img align="center" alt="Html" height="30" width="110" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Css" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
@@ -29,7 +29,7 @@ Esse sou eu, Matheus Henrique.
 <div>
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Redux" height="30" width="100" src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7854BC">
-    <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white">
+<!--     <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"> -->
     <img align="center" alt="Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="MUI" height="30" width="100" src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui&logoColor=077DFA">
     <img align="center" alt="styled-components" height="30" width="100" src="https://img.shields.io/badge/StyledComponents-D66C8E?style=for-the-badge&logo=styled-components&logoColor=white">
