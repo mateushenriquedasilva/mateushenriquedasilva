@@ -2,16 +2,13 @@
     Olá!😉
 </h1>
 
-## Meu nome é Matheus Henrique, e sou estudante de Desenvolvimento Front-end.
+**Hi, I'm Matheus H! <img src="https://miro.medium.com/max/980/1*ZeYBlVyHQw9trIm4pwomGA.gif" width="50">**
 
-Tenho 20 anos, nasci em Recife - Pernambuco. Tive meu primeiro contato 
-com programação os 15 anos, quando comecei a estudar Python. Me 
-apaixonei no mesmo momento! Atualmente, estudo Desenvolvento Web 
-e pretendo me especializar em Front-end. 
+* * *
 
-Gosto de assistir, ouvir música, jogar um Lolzinho e sair com os meus amigos. 
-Esse sou eu, Matheus Henrique. 
-
+**About me:**
+- 💻 I'm web developer
+- ⚛️ JavaScript | TypeScript | NodeJS | React
 ---
 
 ### Linguagens 👨‍💻
