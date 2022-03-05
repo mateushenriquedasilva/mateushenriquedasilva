@@ -11,7 +11,7 @@
 - ⚛️ JavaScript | TypeScript | NodeJS | React
 ---
 
-### Linguagens 👨‍💻
+**languages 👨‍💻**
 
 <div>
     <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,7 +22,7 @@
     <img align="center" alt="Css" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### Frameworks e Bibliotecas 📚 
+**Frameworks and Libraries 📚** 
 
 <div>
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -34,7 +34,7 @@
     <img align="center" alt="SCSS" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-### Ferramentas ⚙️
+**Tools ⚙️**
 
 <div>
     <img align="center" alt="Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white">
