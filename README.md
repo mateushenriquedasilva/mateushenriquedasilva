@@ -47,8 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquedasilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-<div style="display:inline_block">
-<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/fa0fc733ee415d12b2de2f0e8c979b1e.gif" width="200" height="200" border="0" alt="Matheus-Animation"/></a>
+<img src="https://c.tenor.com/lPjVxg0BXJ4AAAAC/gandalf-happy.gif" width="150">
     
   <a href="https://www.linkedin.com/in/matheus-henrique-54a673197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/themateusreal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
