@@ -25,7 +25,7 @@
     <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="TypeScript" height="30" width="100" src="https://img.shields.io/badge/typescript-2F6FBA?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=Python&logoColor=white">
-  <img align="center" alt="Node" height="30" width="100" src="https://img.shields.io/badge/Node-092D1F?style=for-the-badge&logo=node&logoColor=white">
+  <img align="center" alt="Node" he<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white">
 </div>
