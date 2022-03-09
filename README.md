@@ -22,10 +22,10 @@
 <br/>
 
 <div>
-  <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/javascript-2F6FBA?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/javascript-ECD74D?style=for-the-badge&logo=javascript&logoColor=white">
     <img align="center" alt="TypeScript" height="30" width="100" src="https://img.shields.io/badge/typescript-2F6FBA?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=Python&logoColor=white">
-  <img align="center"  height="30" width="100" alt="Node" he<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="NodeJS" height="30" width="100" src="https://img.shields.io/badge/nodejs-ECD74D?style=for-the-badge&logo=nodejs&logoColor=white">
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white">
 </div>
