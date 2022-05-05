@@ -29,7 +29,6 @@
   <img align="center" alt="express" height="30" width="100" src="https://img.shields.io/badge/express-323230?style=for-the-badge&logo=express&logoColor=white">
     <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=E02345">
-  
     <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
