@@ -7,9 +7,8 @@
 **About me:**
 - 💻 I'm &lt;Web developer/&gt;
 - ⚛️ JavaScript | TypeScript | NodeJS | Angular
-- 📩 Talk to me by the discord: **Matheus Henrique#7802**
 - 🧑🏾‍💻 Go to my [Linkedin](https://www.linkedin.com/in/matheus-silva19/)
-- ✍🏿 Write me an <a href="mailto:matheushenriquedasilvaa.2021@gmail.com" target="_blank">Email</a>
+- ✍🏿 Write me an <a href="mailto:matheus.hsilvaa18@gmail.com" target="_blank">Email</a>
 - 👤 Follow me on [Instagram](https://www.instagram.com/themateusreal/)
 - 🖤 Never stop learning
 
