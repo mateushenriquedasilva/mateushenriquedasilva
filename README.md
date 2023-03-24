@@ -21,12 +21,12 @@
 
 <br/>
 
-<div>
+<!-- <div>
   <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/javascript-ECD74D?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=E02345">
   <img align="center" alt="NodeJS" height="30" width="100" src="https://img.shields.io/badge/node-354522?style=for-the-badge&logo=node&logoColor=white">
     <img align="center" alt="TypeScript" height="30" width="100" src="https://img.shields.io/badge/typescript-2F6FBA?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
+</div> -->
 
     
 <!-- <a href="https://www.linkedin.com/in/matheus-henrique-54a673197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
