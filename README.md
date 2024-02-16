@@ -5,7 +5,7 @@
 * * *
 
 **About me:**
-- 💻 I'm &lt;Web developer/&gt;
+- 💻 I'm &lt;Web Developer/&gt;
 - ⚛️ JavaScript | TypeScript | Java | Spring Boot | NodeJS | React | React Native | Angular | AWS
 - 🧑🏾‍💻 Go to my [Linkedin](https://www.linkedin.com/in/matheus-silva19/)
 - ✍🏿 Write me an <a href="mailto:matheus.hsilvaa18@gmail.com" target="_blank">Email</a>
