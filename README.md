@@ -1,5 +1,5 @@
 ### Hello There, I'm Matheus H! 
-#### I am a fullstack developer with experience in Angular, React, Node and PostgreSQL. Currently, I work at Foco Aluguel de Carros as a Jr FullStack Developer.
+#### I am a fullstack developer with experience in Angular, React, Node, Java, Spring Boot and PostgreSQL. Currently, I work at Foco Aluguel de Carros as a FullStack Developer.
 <img src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" width="150">
 
 * * *
