@@ -11,14 +11,12 @@
 - ✍🏿 Write me an <a href="mailto:matheus.hsilvaa18@gmail.com" target="_blank">Email</a>
 - 🖤 Never stop learning
 
-<br/>
-
-<div>
+<!-- <div>
   <a href="https://github.com/mateushenriquedasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquedasilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- <div>
   <img align="center" alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/javascript-ECD74D?style=for-the-badge&logo=javascript&logoColor=white">
