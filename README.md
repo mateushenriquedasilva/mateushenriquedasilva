@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Matheus Henrique</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushenriquedasilva/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:matheus.hsilvaa18@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Henrique-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushenriquedasilva/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-matheus.hsilvaa18@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:matheus.hsilvaa18@gmail.com)](mailto:diego.schell.f@gmail.com)
 ###
 
 <p align="left">I am passionate about learning and constantly seeking knowledge, always exploring new technologies and trends in the world of programming. With an open mindset and a thirst for challenges, I am ready to embark on new adventures and contribute to exciting projects in the field of software development.</p>
