@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm Matheus Henrique</h1>
-###
-
 <p align="left">I am passionate about learning and constantly seeking knowledge, always exploring new technologies and trends in the world of programming. With an open mindset and a thirst for challenges, I am ready to embark on new adventures and contribute to exciting projects in the field of software development.</p>
 
 ###
