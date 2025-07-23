@@ -63,11 +63,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-<h2 align="left">My articles</h2>
-<div align="left">
-  <img src="https://github-read-medium.vercel.app/latest?username=@mateus-jpeg&limit=6&theme=nord" alt="Layout with last medium posts"  />
-</div>
-
-###
