@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 💻 I'm Fullstack Developer<br>- 🍵 Java | Spring Boot | Angular | JavaScript | TypeScript | NodeJS | React | React Native | AWS<br>- 🖤 Never stop learning</p>
+<p align="left">- 💻 I'm Software Engineer<br>- 🍵 Go | Java | Angular | Postgres | Oracle Database | AWS | GCP | OCI<br>- 🖤 Never stop learning</p>
 
 ###
 
@@ -16,6 +16,8 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
