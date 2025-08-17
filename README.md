@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 💻 I'm Software Engineer<br>- 🐹 Go | Java | Node |Angular | Postgres <br>- 🖤 Never stop learning</p>
+<p align="left">- 💻 I'm Software Engineer<br>- 🐹 Go | Java | Node | Angular | Postgres <br>- 🖤 Never stop learning</p>
 
 ###
 
