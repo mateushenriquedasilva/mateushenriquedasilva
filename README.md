@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 💻 I'm Software Engineer<br>- 🐹 Go | Java | Node | Angular | Postgres <br>- 🖤 Never stop learning</p>
+<p align="left">- 💻 I'm Software Engineer<br>- 🐹 Java | Node | Angular | Postgres | Oracle Database | PL/SQL <br>- 🖤 Never stop learning</p>
 
 ###
 
@@ -16,8 +16,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -27,6 +25,10 @@
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=plsql" height="40" alt="plsql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
