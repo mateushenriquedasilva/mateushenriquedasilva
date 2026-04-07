@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 💻 I'm Software Engineer<br>- 🐹 Java | Node | Angular | Postgres | Oracle Database | PL/SQL <br>- 🖤 Never stop learning</p>
+<p align="left">- 💻 I'm Software Engineer</p>
 
 ###
 
