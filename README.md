@@ -1,33 +1,51 @@
-<h1 align="left">Hi 👋, I'm Matheus Henrique</h1>
-<p align="left">I am passionate about learning and constantly seeking knowledge, always exploring new technologies and trends in the world of programming. With an open mindset and a thirst for challenges, I am ready to embark on new adventures and contribute to exciting projects in the field of software development.</p>
+# Hi, I'm Mateus Henrique da Silva
 
-###
+Welcome to my GitHub profile repository.
 
-<h2 align="left">About me</h2>
+This README is the central entry point for my public work, where I share projects focused on backend development, cloud integrations, DevOps practices, and developer tooling.
 
-###
+## About Me
 
-<p align="left">- 💻 I'm Software Engineer</p>
+I am a software engineer interested in:
+- Backend APIs and distributed systems
+- Java and Spring Boot ecosystems
+- Node.js and Go services
+- Cloud platforms and automation
+- Developer experience and tooling (MCP, editor integrations, scripting)
 
-###
+## What You Can Find Here
 
-<h2 align="left">I code with</h2>
+- Practical learning projects from courses and experiments
+- APIs built with Java, Node.js, Go, and Python
+- Cloud-oriented samples (Azure, OCI, GCP)
+- Frontend and full-stack practice repositories
+- Infrastructure and containerization studies using Docker and NGINX
 
-###
+## Highlighted Repositories
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="docker logo"  />
-  <img width="12" />
-</div>
+- **go-book-api**: REST API in Go with Gin and Docker support.
+- **storage-azure**: Spring Boot service for uploading files to Azure Storage.
+- **docker-manager-backend**: Java API for listing local Docker containers.
+- **mcp-server-financial-analyst**: FastMCP server with financial analysis tools.
+- **nginx-geteway**: Node + NGINX setup demonstrating load balancing.
+
+## Tech Stack
+
+- Languages: Java, JavaScript/TypeScript, Go, Python
+- Frameworks: Spring Boot, Express, React, Gin
+- Cloud/Infra: Azure, OCI, GCP, Docker, NGINX
+- Tooling: Maven, npm, GitHub Actions, VS Code
+
+## Current Focus
+
+- Building practical MCP servers and AI-assisted development workflows
+- Improving cloud-native architecture skills
+- Expanding automation and CI/CD best practices
+
+## Contact
+
+- GitHub: [@mateushenriquedasilva](https://github.com/mateushenriquedasilva)
+
+## License
+
+This repository is available under the terms of the license included in the project.
