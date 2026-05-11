@@ -5,4 +5,4 @@ Software Engineer focused on backend, cloud, and developer tools.
 ## Contact
 - LinkedIn: [mateushenriquedasilva](https://www.linkedin.com/in/mateushenriquedasilva/)
 
-![gopher dance](https://www.vhv.rs/dpng/d/495-4953255_file-duke3d-duke-java-hd-png-download.png)
+![gopher dance](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/1280px-Duke_%28Java_mascot%29_waving.svg.png)
