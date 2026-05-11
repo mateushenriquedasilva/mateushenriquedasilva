@@ -1,6 +1,6 @@
 # Hi, I'm Mateus Henrique da Silva
 
-Software Engineer focused on backend, cloud, and developer tools.
+Software Engineer at @accenture | Java, Node | Azure, AWS Certified | Distributed Systems.
 
 ## Contact
 - LinkedIn: [mateushenriquedasilva](https://www.linkedin.com/in/mateushenriquedasilva/)
