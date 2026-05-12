@@ -5,4 +5,4 @@ Software Engineer | Java, Node | Azure, AWS Certified | Distributed Systems.
 ## Contact
 - LinkedIn: [mateushenriquedasilva](https://www.linkedin.com/in/mateushenriquedasilva/)
 
-<img src="./img/duke.gif" width="100" height="100"/>
+<img src="https://go.dev/images/gophers/motorcycle.svg" width="100" height="100"/>
